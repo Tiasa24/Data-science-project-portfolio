@@ -1,4 +1,4 @@
-# # Data Science Project Portfolio
+# Data Science Project Portfolio
 
 Welcome to my **Data Science Project Portfolio** — a collection of academic and practical projects demonstrating my experience in **data analysis, statistical modelling, machine learning, data visualisation, and database management**.
 
